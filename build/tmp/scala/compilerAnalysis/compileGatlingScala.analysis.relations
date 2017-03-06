@@ -1,0 +1,21 @@
+products:
+   src/gatling/scala/computerdatabase/Basic1Simulation.scala -> build/classes/gatling/computerdatabase/Basic1Simulation.class
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> build/classes/gatling/computerdatabase/advanced/Advanced1Simulation$Search$.class
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> build/classes/gatling/computerdatabase/advanced/Advanced1Simulation.class
+binary dependencies:
+   src/gatling/scala/computerdatabase/Basic1Simulation.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+   src/gatling/scala/computerdatabase/Basic1Simulation.scala -> /Users/pbane3/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.2.2/4f92ff0edec4c13b32c26058b4fcf8195b283142/gatling-commons-2.2.2.jar
+   src/gatling/scala/computerdatabase/Basic1Simulation.scala -> /Users/pbane3/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.2.2/f06b4510c0d0e4f40d6985a918a17a8c6025cab9/gatling-core-2.2.2.jar
+   src/gatling/scala/computerdatabase/Basic1Simulation.scala -> /Users/pbane3/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.2.2/fc069524e8d8cf57fd75d488d48019dcac080c8c/gatling-http-2.2.2.jar
+   src/gatling/scala/computerdatabase/Basic1Simulation.scala -> /Users/pbane3/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> /Users/pbane3/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.2.2/4f92ff0edec4c13b32c26058b4fcf8195b283142/gatling-commons-2.2.2.jar
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> /Users/pbane3/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.2.2/f06b4510c0d0e4f40d6985a918a17a8c6025cab9/gatling-core-2.2.2.jar
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> /Users/pbane3/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.2.2/fc069524e8d8cf57fd75d488d48019dcac080c8c/gatling-http-2.2.2.jar
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> /Users/pbane3/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+source dependencies:
+external dependencies:
+class names:
+   src/gatling/scala/computerdatabase/Basic1Simulation.scala -> computerdatabase.Basic1Simulation
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> computerdatabase.advanced.Advanced1Simulation
+   src/gatling/scala/computerdatabase/advanced/Advanced1Simulation.scala -> computerdatabase.advanced.Advanced1Simulation$Search$
